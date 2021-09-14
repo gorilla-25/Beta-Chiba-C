@@ -78,7 +78,7 @@ button {
   display: block;
   border: none;
   margin: 0 auto;
-  background-color: #006837;
+  background-color: #a53411;
   color: #fff;
   width: 287px;
   height: 55px;
@@ -198,7 +198,7 @@ button {
           transform: rotate(90deg);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  fill: #009245;
+  fill: #a53411;
   width: 12px;
   height: 24px;
 }
@@ -239,11 +239,11 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #39b54a;
+  background-color: #f3ebda;
 }
 
 .bg-color--subcolor {
-  background-color: #d9e021;
+  background-color: #ad3323;
 }
 
 .bg-color--gray {
@@ -264,7 +264,7 @@ button {
 }
 
 .sub-title__bg {
-  background-color: #fcee21;
+  background-color: #a53411;
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -274,7 +274,7 @@ button {
   line-height: 1.75;
   text-align: center;
   padding: 9px 20px;
-  background-color: #d9e021;
+  background-color: #a53411;
   margin: 0 -20px 20px -20px;
 }
 
@@ -284,7 +284,7 @@ button {
 }
 
 .section-title--keycolorlight {
-  background-color: #8cc63f;
+  background-color: #a53411;
 }
 
 .section-title--keycolorlight .section-title__stage {
@@ -292,7 +292,7 @@ button {
 }
 
 .section-title--keycolor {
-  background-color: #39b54a;
+  background-color: #a53411;
 }
 
 .section-title--story {
@@ -336,7 +336,7 @@ button {
   display: block;
   text-decoration: none;
   cursor: pointer;
-  background-color: #006837;
+  background-color: #a53411;
   color: #fff;
   font-size: 24px;
   line-height: 1.54167;
@@ -365,7 +365,7 @@ button {
 * header
 *****************/
 .header {
-  background-color: #fff;
+  background-color: #f3ebda;
   height: 60px;
 }
 
