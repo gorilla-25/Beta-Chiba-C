@@ -175,7 +175,7 @@ button {
   content: '';
   width: calc(100% - 60px);
   height: 7px;
-  background-color: #fcee21;
+  background-color: #ad3323;
   position: absolute;
   top: -10px;
   left: 30px;
@@ -441,7 +441,7 @@ button {
 }
 
 .err-message {
-  color: #c1272d;
+  color: #ad3323;
   font-size: 18px;
   text-align: center;
 }
