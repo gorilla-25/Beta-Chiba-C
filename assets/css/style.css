@@ -311,7 +311,7 @@ button {
   line-height: 1.06667;
   margin: 0;
   padding-bottom: 15px;
-  color: #fff;
+  color: #000;
 }
 
 .section-title--border::after {
@@ -320,7 +320,7 @@ button {
   left: calc(50% - 95px);
   display: block;
   content: '';
-  background-color: #fff;
+  background-color: #ad3323;
   height: 2.6px;
   width: 190px;
 }
